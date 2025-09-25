@@ -14,7 +14,7 @@
 
 ### 👥 Aluno
 
-* [João Carvalho Carreiro Neto](https://www.linkedin.com/in/jo%C3%A3o-carvalho-401b66357)
+* [João Carvalho](https://www.linkedin.com/in/jo%C3%A3o-carvalho-401b66357)
 ### 👔 Docentes e Orientação
 
 * **Orientador(a):** [FRANCISMAR ALVES MARTINS JUNIOR](https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/)
