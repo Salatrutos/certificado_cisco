@@ -27,7 +27,7 @@
 
 ### 🎯 Tema e Contextualização
 
-> O curso oferece uma introdução ao hardware de PC's e dipositivos móveis, seus componentes internos, como funcionam e como sulionar problemas.
+> O curso oferece uma introdução ao hardware de PC's e dispositivos móveis, seus componentes internos, como funcionam e como solucionar problemas.
 
 ### 🛠️ Estrutura do Repositório
 
