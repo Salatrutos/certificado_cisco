@@ -32,7 +32,7 @@
 ### 🛠️ Estrutura do Repositório
 
 ```python
-templatesUNIBRAS/
+certificado_cisco/
 ├─ assets/
 │  └─ (imagens, logotipos e recursos visuais para o README e templates)
 ├─ document/
